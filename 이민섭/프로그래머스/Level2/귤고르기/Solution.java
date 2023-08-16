@@ -1,4 +1,4 @@
-package Level1.귤고르기;
+package Level2.귤고르기;
 
 import java.util.Map;
 import java.util.HashMap;
