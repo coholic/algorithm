@@ -1,7 +1,7 @@
 package level1;
 
 public class 로또의최고순위와최저순위 {
-    public int[] solution(int[] lottos, int[] win_nums) {
+    public int[] solution(int[] lottos, int[] win_nums) {  // 내 로또 번호 lottos, 당첨 번호 win_nums
 
         int[] answer = new int[2];  // 최고, 최저 순위
 
