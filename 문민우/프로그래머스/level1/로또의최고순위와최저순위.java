@@ -1,4 +1,4 @@
-package Level1;
+package level1;
 
 public class 로또의최고순위와최저순위 {
     public int[] solution(int[] lottos, int[] win_nums) {

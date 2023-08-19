@@ -1,4 +1,4 @@
-package Level1;
+package level1;
 
 public class 콜라문제 {
     public int solution(int a, int b, int n) {  // 콜라를 받기 위한 조건의 빈 병 개수 a, 받을 수 있는 콜라의 개수 b, 현재 가지고 있는 빈 병 개수 n
