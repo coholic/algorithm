@@ -14,5 +14,3 @@ def solution(N, stages):
         answer.append(i[0])
         
     return answer
-
- 
