@@ -1,7 +1,7 @@
-package Level1;
+package level1;
 
-import java.util.Queue;
 import java.util.LinkedList;
+import java.util.Queue;
 
 public class 카드뭉치 {
     public String solution(String[] cards1, String[] cards2, String[] goal) {
