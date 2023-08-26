@@ -58,5 +58,13 @@
 - [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
 - [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 
+**4주차**
+- [N과 M (2)](https://www.acmicpc.net/problem/15650)
+- [스타트와 링크](https://www.acmicpc.net/problem/14889)
+- [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+- [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
+- [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
+- [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+ 
 ### CS
 - 미정
