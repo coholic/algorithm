@@ -18,6 +18,8 @@
 ## 📕 방식
 - 매 주 1회 알고리즘 비대면 + CS 대면 스터디 진행
 - 알고리즘은 [백준](https://www.acmicpc.net/), [프로그래머스](https://programmers.co.kr/) 등으로 진행
+- CS는 Notion에 정리한 후, 예상 질문 & 답변 만들기 및 개념 설명
+- 최종 목표는 Notion에 정리한 내용을 완벽하게 숙지한 뒤, 이를 바탕으로 블로그 포스팅
 
 ## 🏫 장소
 - 학교 그룹스터디룸
@@ -65,6 +67,20 @@
 - [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
- 
+
+**5주차**
+- [상근이의 여행](https://www.acmicpc.net/problem/9372)
+- [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
+- [트리 순회](https://www.acmicpc.net/problem/1991)
+- [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)
+- [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
+- [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
+
 ### CS
-- 미정
+
+**순서**
+1. 네트워크
+2. 자료구조
+3. 데이터베이스
+4. 운영체제
+5. 디자인패턴
