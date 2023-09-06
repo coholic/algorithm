@@ -76,6 +76,15 @@
 - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 - [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
 
+**6주차**
+- [다리 놓기](https://www.acmicpc.net/problem/1010)
+- [2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [연속합](https://www.acmicpc.net/problem/1912)
+- [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)
+- [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- 당첨자 추가 문제 [내리막 길](https://www.acmicpc.net/problem/1520)
+
 ### CS
 
 **순서**
