@@ -85,6 +85,14 @@
 - [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 - 당첨자 추가 문제 [내리막 길](https://www.acmicpc.net/problem/1520)
 
+**7주차**
+- [이친수](https://www.acmicpc.net/problem/2193)
+- [카드 구매하기](https://www.acmicpc.net/problem/11052)
+- [날짜 계산](https://www.acmicpc.net/problem/1476)
+- [부분수열의 합](https://www.acmicpc.net/problem/1182)
+- [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+- [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
+
 ### CS
 
 **순서**
