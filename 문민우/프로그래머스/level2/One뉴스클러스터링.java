@@ -44,9 +44,9 @@ public class One뉴스클러스터링 {
         return elements;
     }
 
-    private boolean checkAlphabet(char charaterToCheck) {
+    private boolean checkAlphabet(char characterToCheck) {
 
-        if ('a' <= charaterToCheck && charaterToCheck <= 'z')
+        if ('a' <= characterToCheck && characterToCheck <= 'z')
             return true;
 
         return false;
@@ -66,24 +66,6 @@ public class One뉴스클러스터링 {
 
             union.add(element);
         }
-    }
-
-    private List<String> getUnion(List<String> str1Elements, List<String> str2Elements) {
-
-        List<String> union = new ArrayList<>();
-
-        for (String element : str1Elements) {
-
-            union.add(element);
-        }
-
-        for (String element : str2Elements) {
-
-            if (!union.contains(element))
-                union.add(element);
-        }
-
-        return union;
     }
 
     private double calculateJ(int intersectionSize, int unionSize) {
