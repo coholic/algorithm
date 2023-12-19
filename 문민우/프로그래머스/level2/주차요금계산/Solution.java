@@ -33,7 +33,7 @@ public class Solution {
         for (String carNumber : totalTime.keySet()) {
 
             if (inOrOut.get(carNumber).equals("IN")) {
-                
+
                 calculateTime(manage.get(carNumber), carNumber);
                 list.add(calculateCost(totalTime.get(carNumber), fees[0], fees[1],
                         fees[2], fees[3]));
